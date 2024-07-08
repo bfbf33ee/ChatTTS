@@ -1,0 +1,3 @@
+pip install --upgrade -r requirements.txt
+
+python examples/web/webui.py
